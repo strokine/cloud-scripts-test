@@ -1,4 +1,4 @@
-import com.comcast.xbo.wpil.CloudFunction
+import com.comcast.xbo.wpil.ScriptCloudFunction
 import com.comcast.xbo.wpil.device.Device
 
 class Test1Script : ScriptCloudFunction<Device, Device>(){
