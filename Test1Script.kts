@@ -8,5 +8,9 @@ class Test1Script : CloudFunction<Device, Device>(){
         t.name = t.name!!.toUpperCase()
         return t
     }
+    
+    fun hi() {
+        println("HI")
+    }
 
 }
