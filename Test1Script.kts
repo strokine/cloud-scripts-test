@@ -9,3 +9,5 @@ class Test1Script : CloudFunction<Device, Device>(){
         return t
     }
 }
+
+Test1Script()
